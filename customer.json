@@ -1,14 +1,1 @@
-[
-    {
-        "id": 1,
-        "name": "Ali"
-    },
-    {
-        "id": 2,
-        "name": "Abu"
-    },
-    {
-        "id": 3,
-        "name": "Ahmad"
-    }
-]
+[{"id":"1","name":"Ali","age":40,"gender":"male","location":"Kedah","description":"Owner of a car workshop","email":"ali@gmail.com"},{"id":"2","name":"Abu","age":27,"gender":"male","location":"Perak","description":"Owner of a restaurant","email":"abu@gmail.com"},{"id":"3","name":"Aliya","age":25,"gender":"female","location":"Selangor","description":"Owner of a book store","email":"aliya@gmail.com"}]

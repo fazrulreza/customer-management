@@ -1,6 +1,8 @@
-import customer from '../../../customer.json';
-
+import { getCustomerData } from '../../../utils/api';
 
 export default function handler(req, res) {
-    res.status(200).json(customer)
-  };
+  const customer = getCustomerData();
+  res
+    .status(200)
+    .json(customer);
+}
